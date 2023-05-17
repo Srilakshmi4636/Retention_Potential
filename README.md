@@ -1,2 +1,2 @@
 # Retention_Potential
-Final Hackathon project of my Data Science course
+Final Hackathon project of my DataScience course
