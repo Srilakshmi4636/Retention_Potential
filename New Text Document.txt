@@ -1,0 +1,6 @@
+-> I have preprocessed the test file separately.
+-> In TrainData_CAPSTONE, I have preprocessed the training data and built models. 
+I have taken the preprocessed test file and used the models to make predictions on the 
+test data.
+-> I have saved the preprocessed train file for doing oversampling , clustering and 
+Extracting patterns.
